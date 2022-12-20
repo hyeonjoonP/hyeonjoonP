@@ -40,7 +40,7 @@
 </div>
   <div align="center">
 <img src="https://img.shields.io/badge/Visual Studio code-24acf2?style=flat-round&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-darkblue?style=flat-round&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-darkblue?style=flat-round&logo=IntelliJ&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-black?style=flat-round&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-orange?style=flat-round&logo=Git&logoColor=white"/>
   </div>
