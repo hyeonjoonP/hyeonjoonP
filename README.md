@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/IntelliJ-darkblue?style=flat-round&logo=IntelliJ&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-black?style=flat-round&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-orange?style=flat-round&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/linux-black?style=flat-round&logo=linux&logoColor=black"> 
+<img src="https://img.shields.io/badge/linux-red?style=flat-round&logo=linux&logoColor=black"> 
   </div>
   </div>
 </div>
