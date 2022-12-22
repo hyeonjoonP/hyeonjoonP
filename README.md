@@ -14,6 +14,7 @@
 
 <div align="left">
 <b>hyeonjoonP<br>SoftWare Developer</b>
+  <b>Email : pjjoon1379@gmail.com</b>
 </div>
 
 ---
